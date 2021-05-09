@@ -1,1 +1,2 @@
-# PlayerNDistanceUpdate
+# synchronousBallMovement
+Ball moving synchronously
